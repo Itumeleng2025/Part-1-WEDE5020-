@@ -53,11 +53,11 @@ Secure payment solutions for freelancers: PayPal. 2024. Freelancer payment secur
 Contact 
 For inquiries and support, reach out via: 
 Email: support@sidehustleconnect.com 
-Name: Itumeleng
+Name: Itumeleng Ingrid 
 Surname: Nyakane
 Email: moonflowernyakane34@gmail.com
 Phone: 069 188 0940 
-GitHub Repository: [Insert your GitHub link here] 
+
 
  
  
