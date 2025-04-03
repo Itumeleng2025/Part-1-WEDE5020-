@@ -11,12 +11,24 @@ Secure Payments: Ensures fair transactions between freelancers and clients.
 Review & Rating System: Builds credibility for freelancers. 
 Blog & Resources: Provides tips on freelancing, budgeting, and career growth. 
 
+Images 
+
+1.Meeting Scene -People in a Meeting(images/1.png) 
+
+2.Freelance -Freelance image (images/2.png) 
+
+3.Various Job Occupations -Different Occupations (images/3.png) 
+
+4.Contact Icons -Contact Icons (images/4.png) 
+
+5.Testimonial Image - Testimonial (images/testimony.png) 
+
 Technology Stack 
 Front-end: HTML
 
 Installation & Setup 
 Clone the repository: 
-Git clone [your-github-repo-link] 
+Git clone [https://github.com/Itumeleng2025/Part-1.git]] 
 Navigate to the project folder: 
 Cd sidehustle-connect 
 Install dependencies: 
