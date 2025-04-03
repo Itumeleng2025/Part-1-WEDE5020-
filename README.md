@@ -36,12 +36,6 @@ Npm install
 Start the development server: 
 Npm start 
 
-Contribution Guidelines 
-We welcome contributions! To contribute: 
-Fork the repository. 
-Create a new branch for your feature or bug fix. 
-Commit your changes with clear messages. 
-Submit a pull request. 
 
 References 
 
