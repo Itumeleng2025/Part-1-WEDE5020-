@@ -45,6 +45,17 @@ Submit a pull request.
 
 References 
 
+Freelancing trends and gig economy insights: Upwork. 2024. Freelancing in America Report. Available at: https://www.upwork.com/research/freelancing-in-america. [Accessed 02 April 2025]. 
+
+Youth employment and part-time job statistics: Statista. 2024. Global freelance market size and trends. Available at: https://www.statista.com. [Accessed 02 April 2025]. 
+
+Financial literacy for young professionals: OECD. 2023. Financial education for youth: A global perspective. Available at: https://www.oecd.org [Accessed 02 April 2025]. 
+
+Secure payment solutions for freelancers: PayPal. 2024. Freelancer payment security and best practices. Available at: https://www.paypal.com [Accessed 02 April 2025]. 
+
+ 
+
+ 
 Contact 
 For inquiries and support, reach out via: 
 Email: support@sidehustleconnect.com 
