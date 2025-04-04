@@ -28,7 +28,7 @@ Front-end: HTML
 
 Installation & Setup 
 Clone the repository: 
-Git clone [https://github.com/Itumeleng2025/Part-1.git]] 
+Git clone [https://github.com/Itumeleng2025/Part-1.git]
 Navigate to the project folder: 
 Cd sidehustle-connect 
 Install dependencies: 
